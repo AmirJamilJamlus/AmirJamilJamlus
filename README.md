@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amir Jamil Jamlus</h1>
 <h3 align="center">A passionate Data Engineering student from Malaysia.</h3>
-<img align= "right" alt="Celebrate" width="300" src="[https://i.gifer.com/Z6d5.gif](https://media.wired.com/photos/5b334f9faf0d633ac7680583/master/w_1600%2Cc_limit/tumblr_m1mrurxzgm1rqr258o1_500.gif)">
-<img align= "right" src="https://giphy.com/embed/pO4UHglOY2vII" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen><p><a href="https://giphy.com/gifs/dancing-adventure-time-bmo-pO4UHglOY2vII"></a></p>
+
 
 
 - 🔭 I’m currently working on **a data analytics project**
