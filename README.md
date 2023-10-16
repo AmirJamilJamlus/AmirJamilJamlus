@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **a data analytics project**
 
-- 🌱 I’m currently learning **Data Analytics Course from UDEMY, Data Analytics Proffesional Certificate from Google, AWS Cloud Foundations, AWS Cloud Architecting, Data Engineering, and Alteryx Designer Core certificates.**
+- 🌱 I’m currently taking **Data Analytics Course from UDEMY, Data Analytics Proffesional Certificate from Google, AWS Cloud Foundations, AWS Cloud Architecting, Data Engineering, and Alteryx Designer Core certificates.**
 
 - 📫 How to reach me **amirjamiljamlus.aj@gmail.com**
 
